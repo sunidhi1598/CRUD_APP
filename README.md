@@ -14,7 +14,7 @@ Postman (for API testing)
 
 Simple HTML frontend
 
-Features
+🚀 Features
 
 Add new task
 
@@ -68,6 +68,7 @@ nodemon server.js
 Server will run on:
 
 http://localhost:5000
+
 API Endpoints
 ➤ Create Task
 
@@ -131,6 +132,6 @@ Understanding MongoDB connection
 
 Preparing for Machine Test / Interview
 
-Author
+👩‍💻 Author
 
 Sunidhi Kumari
