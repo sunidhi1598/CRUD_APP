@@ -1,6 +1,6 @@
 CRUD App
 
-This is a simple CRUD (Create, Read, Update, Delete) Task Manager project built using:
+It supports full CRUD operations (Create, Read, Update, Delete) project built using:
 
 Node.js
 
@@ -135,3 +135,4 @@ Preparing for Machine Test / Interview
 👩‍💻 Author
 
 Sunidhi Kumari
+
